@@ -1,5 +1,10 @@
 {
+  "name": "cremp-json-server",
+  "version": "1.0.0",
   "dependencies": {
-    "json-server": "^0.17.3"
+    "json-server": "^0.16.3"
+  },  
+  "scripts": {
+    "start": "node server.js"
   }
 }
