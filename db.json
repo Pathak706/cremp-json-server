@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "userName": "rahulPathak",
+      "registeredTradeName": "Pathak Enterprises",
+      "registeredOfficeAddress": "Andheri East, Mumbai",
+      "contactNumber": "9326598839",
+      "email": "rahul@carrot.club",
+      "emailOTP": "123456",
+      "contactNumberOTP": "123456",
+      "role": "vendor",
+      "password": "rahulPathak"
+    },
+    {
+      "userName": "rahulPathak",
+      "registeredTradeName": "Pathak Enterprises",
+      "registeredOfficeAddress": "Andheri East, Mumbai",
+      "contactNumber": "9326598839",
+      "email": "rahul@carrot.club",
+      "emailOTP": "123456",
+      "contactNumberOTP": "123456",
+      "role": "buyer",
+      "password": "rahulPathak"
+    },
+    {
+      "registeredTradeName": "Himanshu Mishra Pvt. Ltd",
+      "registeredOfficeAddress": "Goregaon BCE",
+      "contactNumber": "7021630982",
+      "email": "himanshu.mishra@carrot.club",
+      "emailOTP": "123456",
+      "contactNumberOTP": "123456",
+      "role": "buyer"
+    },
+    {
+      "userName": "NileshNag",
+      "registeredTradeName": "Nag Enterprises",
+      "registeredOfficeAddress": "Goregaon BCE",
+      "contactNumber": "9768371661",
+      "email": "pathakrahul@gmail.com",
+      "emailOTP": "123456",
+      "contactNumberOTP": "123456",
+      "role": "buyer",
+      "password": "NileshNag"
+    },
+    {
+      "registeredTradeName": "Himanshu Mishra Pvt. Ltd",
+      "registeredOfficeAddress": "Goregaon BCE",
+      "contactNumber": "7021630982",
+      "email": "himanshu.mishra@carrot.club",
+      "emailOTP": "123456",
+      "contactNumberOTP": "123456",
+      "brands": [
+        {
+          "value": "ambuja-cement",
+          "label": "Ambuja Cement"
+        },
+        {
+          "value": "tata-steel",
+          "label": "Tata Steel"
+        }
+      ],
+      "categories": [
+        {
+          "value": "cement",
+          "label": "Cement"
+        },
+        {
+          "value": "steel",
+          "label": "Steel"
+        }
+      ],
+      "role": "vendor"
+    }
+  ]
+}
