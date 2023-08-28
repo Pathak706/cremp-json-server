@@ -35,6 +35,7 @@ server.post('/buyer/signup', (req, res) => {
 });
 
 server.use(router);
-server.listen(5000, () => {
-  console.log('JSON Server is running on http://localhost:5000/');
+server.listen(5000, '0.0.0.0', () => {
+  console.log('JSON Server is running 0.0.0.0:5000');
 });
+
